@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <PackageReference Include="NeinMath" Version="1.3.0" />
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="Portable.BouncyCastle" Version="1.8.4" />
     <PackageReference Include="SHA3" Version="1.0.0-rc" />
     <PackageReference Include="UChainDB.ChainEngine.Cryptography.EcDsa.Secp256k1" Version="1.0.0" />
